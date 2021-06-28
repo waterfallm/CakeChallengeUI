@@ -2,7 +2,7 @@ import { useQuery } from 'react-query';
 import axios from 'axios';
 // import { IAddress } from '../types';
 
-const baseurl = "http://127.0.0.1:3000"
+const baseurl = "http://home1.ball-coin.com"
 
 export const getCakes = async () => {
   // const result = await axios.get(`/api/addresses/${id}`);
