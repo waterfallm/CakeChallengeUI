@@ -43,7 +43,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "yarn && yarn run build",
+    "build": "npm run build",
     "dev:api": "nodemon",
     "dev:client": "cd client && yarn run start"
   },
