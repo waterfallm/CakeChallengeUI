@@ -3,7 +3,7 @@
 
 Cake Challenge UI for use with the Cake Challange API
 
-Built with NBodeJs and Typescript
+Built with NodeJs and Typescript
 
 Run this project locally
 
